@@ -1,0 +1,4 @@
+cropped_images/
+out/
+out_test/
+final_model.h5
